@@ -1,0 +1,12 @@
+{
+   "name":"SOL000: Spirent Demo Test Solutions",
+   "shortDescription": "Spirent use cases solving complex problems.",
+   "icon":"/activity/icons/analytics_icon2.png",
+   "descriptionMarkdown":"/sdcv2/sdcv2-01.md",
+   "topology": [{
+      "name": "SDCv2-SNE-10G-Impairments-MX-10G",
+      "actionTitle":"Reserve",
+      "description": "Spirent Solutions - One Click Reservation via Activity Catalog",
+      "reservationDuration":"90"
+    }]
+}

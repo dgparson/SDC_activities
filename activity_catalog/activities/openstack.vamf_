@@ -1,0 +1,18 @@
+{
+   "name":"OpenStack Virtual",
+   "shortDescription": "This will describe how to use Velocity to stand up virtual test environments with OpenStack.",
+   "icon":"/activity/openstack/openstack.png",
+   "descriptionMarkdown":"/openstack/openstack.md",
+   "topology": [{
+      "name": "topology3",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation created using activity catalog",
+      "reservationDuration":"240"
+    },
+	{
+      "name": "topology2",
+      "actionTitle":"Reserve",
+      "description": "Custom Description here",
+      "reservationDuration":"120"
+    }]
+}

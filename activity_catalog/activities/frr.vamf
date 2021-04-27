@@ -1,0 +1,17 @@
+{
+   "name":"APT001: FRRouting (FRR)",
+   "shortDescription":"IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP",
+   "icon":"/activity/frr/frr_logo.png",
+   "descriptionMarkdown":"/frr/frr.md",
+   "topology": [{
+      "name": "FRR1",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation created using activity catalog",
+      "reservationDuration":"30"
+    },{
+      "name": "FRR3",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation created using activity catalog",
+      "reservationDuration":"30"
+    }]
+}

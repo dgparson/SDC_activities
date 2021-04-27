@@ -1,0 +1,12 @@
+{
+   "name":"SDC001: Spirent Rapid Automation Development",
+   "shortDescription": "Creating automation to solve problems and increase productivity.",
+   "icon":"/activity/automationDevelopment/iTestLogo.png",
+   "descriptionMarkdown":"/automationDevelopment/automationDevelopment.md",
+   "topology": [{
+      "name": "APT-Ubuntu-iTest-Development-Environment",
+      "actionTitle":"Reserve",
+      "description": "activity catalog - rapid automation environment",
+      "reservationDuration":"240"
+    }]
+}

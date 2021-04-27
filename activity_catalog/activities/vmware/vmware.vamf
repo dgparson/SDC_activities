@@ -1,0 +1,18 @@
+{
+   "name":"VMware Virtual",
+   "shortDescription": "This will describe how to use Velocity to stand up virtual test environments with VmWare.",
+   "icon":"/activity/vmware/vmware.png",
+   "descriptionMarkdown":"/activity/vmware/vmware.md",
+   "topology": [{
+      "name": "topology3",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation created using activity catalog",
+      "reservationDuration":"240"
+    },
+	{
+      "name": "topology2",
+      "actionTitle":"Reserve",
+      "description": "Custom Description here",
+      "reservationDuration":"120"
+    }]
+}

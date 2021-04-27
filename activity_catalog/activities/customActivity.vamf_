@@ -1,0 +1,18 @@
+{
+   "name":"ZZZZ Reservation Activity",
+   "shortDescription": "Activity represents a demo on some markdown elements immediate reservation of two topologies",
+   "icon":"/activity/customActivity/icon.png",
+   "descriptionMarkdown":"/customActivity/customActivity.md",
+   "topology": [{
+      "name": "topology3",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation created using activity catalog",
+      "reservationDuration":"240"
+    },
+	{
+      "name": "topology2",
+      "actionTitle":"Reserve",
+      "description": "Custom Description here",
+      "reservationDuration":"120"
+    }]
+}

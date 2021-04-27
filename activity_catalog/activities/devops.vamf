@@ -1,0 +1,12 @@
+{
+   "name": "APT003: DevOps & Velocity",
+   "shortDescription": "Spirent Velocity integration as part of the DevOps CI/CD pipeline",
+   "icon": "/activity/devops/devops-icon.png",
+   "descriptionMarkdown": "/devops/devops.md",
+   "topology": [{
+      "name": "DHA-DevOpsDemo-Infra",
+      "actionTitle": "Reserve",
+      "description": "Immediate reservation",
+      "reservationDuration": "60"
+    }]
+}

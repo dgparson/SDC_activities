@@ -1,0 +1,12 @@
+{
+   "name":"APT002: Network Dev Ops Agent",
+   "shortDescription": "Spirent Network Dev Ops Agent runtime enviroment",
+   "icon":"/activity/NDO/ndo.png",
+   "descriptionMarkdown":"/NDO/ndo.md",
+   "topology": [{
+      "name": "APT-NDO",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation",
+      "reservationDuration":"240"
+    }]
+}

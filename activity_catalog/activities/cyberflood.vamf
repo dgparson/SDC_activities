@@ -1,0 +1,12 @@
+{
+   "name":"SEC001: Cyber Security Services",
+   "shortDescription": "Cyber Security DDOS testing powered by CyberFlood.",
+   "icon":"/activity/cyberflood/cybersecurity.svg",
+   "descriptionMarkdown":"/cyberflood/cyberflood.md",
+   "topology": [{
+      "name": "FDK-CFv-FWv-Testing",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation created using activity catalog",
+      "reservationDuration":"240"
+    }]
+}

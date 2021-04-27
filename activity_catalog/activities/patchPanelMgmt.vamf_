@@ -1,0 +1,12 @@
+{
+   "name":"Patch Panel Management",
+   "shortDescription": "Automated workorders for patch panel management.",
+   "icon":"/activity/patchPanelMgmt/patchPanelMgmt.png",
+   "descriptionMarkdown":"/patchPanelMgmt/patchPanelMgmt.md",
+   "topology": [{
+      "name": "AUS-PatchPanelMgmt-1",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation created using activity catalog",
+      "reservationDuration":"60"
+    }]
+}

@@ -1,0 +1,12 @@
+{
+   "name":"CIP001: CTK - Wi-Fi6",
+   "shortDescription": "Velocity Wi-Fi 6 Continuos Test Kit (CTK)",
+   "icon":"/activity/wifi_ctk/wifi6.png",
+   "descriptionMarkdown":"/wifi_ctk/WifiCTK.md",
+   "topology": [{
+      "name": "APT-CTK Wi-Fi 802.11AX",
+      "actionTitle":"Reserve",
+      "description": "Immediate reservation",
+      "reservationDuration":"240"
+    }]
+}
